@@ -19,7 +19,7 @@ public class Java {
 //    public Java(com.cydeo.OfficeHours officeHours) {
 //        OfficeHours = officeHours;
 //    }
-    public  void getTeachingHours (){
+    public void getTeachingHours (){
         System.out.println("Weekly teaching hours : " + (20 + officeHours.getHours()));
 
     }
