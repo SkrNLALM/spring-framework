@@ -9,4 +9,5 @@ public class FullTimeEmployee {
     {
         System.out.println("Full Time Employee is created");
     }
+
 }
