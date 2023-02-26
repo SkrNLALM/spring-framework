@@ -21,7 +21,5 @@ public class CydeoApp {
         String str1= applicationContext.getBean("str1", String.class);
         System.out.println(str1);
 
-
-
     }
 }
